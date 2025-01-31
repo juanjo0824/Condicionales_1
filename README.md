@@ -22,5 +22,5 @@ si es mayor a 3 minutos : 300+50*(cant_minutos-3)
 valor_llamada
 # Diseño
 
-![Diagrama de flujo] (Diagrama.png "Diagrama de flujo")
+![Diagrama de flujo](Diagrama.png "Diagrama de flujo")
 # Construccion
